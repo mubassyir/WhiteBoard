@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhiteBoard</string>
+    <string name="draw">Draw</string>
+    <string name="erase">Erase</string>
+</resources>
